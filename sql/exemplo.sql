@@ -1,1 +1,1 @@
-SELECT 1 AS teste;
+SELECT 'versao A' AS origem;
